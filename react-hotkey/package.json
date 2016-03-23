@@ -1,0 +1,70 @@
+{
+  "name": "react-hotkey",
+  "version": "0.5.0",
+  "description": "A simple mixin for application hotkeys with react",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {
+    "browserify": "^4.2.1",
+    "jest-cli": "^0.1.17",
+    "react": "^0.12.0"
+  },
+  "peerDependencies": {
+    "react": ">=0.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glenjamin/react-hotkey.git"
+  },
+  "keywords": [
+    "react",
+    "hotkey"
+  ],
+  "author": {
+    "name": "Glen Mailer",
+    "email": "glenjamin@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenjamin/react-hotkey/issues"
+  },
+  "homepage": "https://github.com/glenjamin/react-hotkey",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "unmockedModulePathPatterns": [
+      "<rootDir>/index.js",
+      "<rootDir>/test-utils.js",
+      "<rootDir>/node_modules/react",
+      "<rootDir>/node_modules/event-listener"
+    ]
+  },
+  "dependencies": {
+    "event-listener": "^1.1.0"
+  },
+  "gitHead": "204f534369f0a1ff27a6722ff108d7f868042f4e",
+  "_id": "react-hotkey@0.5.0",
+  "_shasum": "6fce3d76a6801f0a0cd1e46106ce2c5cfa77997d",
+  "_from": "react-hotkey@>=0.5.0 <0.6.0",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "glenjamin",
+    "email": "glenjamin@gmail.com"
+  },
+  "dist": {
+    "shasum": "6fce3d76a6801f0a0cd1e46106ce2c5cfa77997d",
+    "tarball": "http://registry.npmjs.org/react-hotkey/-/react-hotkey-0.5.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "glenjamin",
+      "email": "glenjamin@gmail.com"
+    }
+  ],
+  "_resolved": "https://registry.npmjs.org/react-hotkey/-/react-hotkey-0.5.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

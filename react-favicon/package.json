@@ -1,0 +1,55 @@
+{
+  "name": "react-favicon",
+  "version": "0.0.3",
+  "description": "Favicon for react",
+  "main": "dist/react-favicon.js",
+  "scripts": {
+    "build": "babel lib/react-favicon.js > dist/react-favicon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cezary/react-favicon.git"
+  },
+  "keywords": [
+    "react",
+    "favicon"
+  ],
+  "author": {
+    "name": "Cezary Wojtkowski",
+    "email": "cezary@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cezary/react-favicon/issues"
+  },
+  "homepage": "https://github.com/cezary/react-favicon",
+  "peerDependencies": {
+    "react": ">=0.12.0 < 0.14.0"
+  },
+  "devDependencies": {
+    "babel": "^5.1.10"
+  },
+  "gitHead": "2d81d61ed5a20422893d6e040fc6ed43583a13d6",
+  "_id": "react-favicon@0.0.3",
+  "_shasum": "a326e0972fa062e0865a5d879ef7e075a604a28e",
+  "_from": "react-favicon@0.0.3",
+  "_npmVersion": "2.1.18",
+  "_nodeVersion": "1.0.2",
+  "_npmUser": {
+    "name": "cezary",
+    "email": "cezary@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "cezary",
+      "email": "cezary@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "a326e0972fa062e0865a5d879ef7e075a604a28e",
+    "tarball": "http://registry.npmjs.org/react-favicon/-/react-favicon-0.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-favicon/-/react-favicon-0.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
